@@ -106,5 +106,8 @@ combined=get_combined_data()
 
 #Creation of the variable "Number_rooms"
 
+for
+
+
 
 
